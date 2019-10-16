@@ -42,7 +42,7 @@ django-taggit==0.18.1
 django-tinymce4-lite==1.7.4
 djangorestframework==3.10.2
 docker==4.0.2
-Flask==1.1.1
+Flask==1.0
 Flask-Compress==1.4.0
 Flask-SeaSurf==0.2.2
 get==2019.4.13
