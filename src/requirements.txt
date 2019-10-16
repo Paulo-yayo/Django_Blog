@@ -84,7 +84,7 @@ python-form==0.2.2
 python-stdnum==1.11
 python3-openid==3.1.0
 pytz==2018.9
-PyYAML==5.1.1
+PyYAML==5.1
 query-string==2019.4.13
 request==2019.4.13
 requestes==0.0.1
