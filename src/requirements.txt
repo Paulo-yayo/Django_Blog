@@ -21,7 +21,7 @@ dash.ly==0.17.3
 defusedxml==0.5.0
 dj-database-url==0.4.1
 dj-static==0.0.6
-Django==2.2
+Django==2.2.20
 django-allauth==0.39.1
 django-appconf==1.0.3
 django-autoslug==1.9.6
