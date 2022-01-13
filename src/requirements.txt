@@ -68,7 +68,7 @@ pandas==0.25.0
 pandas-datareader==0.8.1
 pep8==1.7.1
 pilkit==2.0
-Pillow==5.4.1
+Pillow==9.0.0
 plotly==4.0.0
 post==2019.4.13
 protobuf==3.9.2
